@@ -7,6 +7,3 @@ class Solution:
             res.append(i)
             res.append(-i)
         return res
-
-
-        
