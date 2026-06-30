@@ -10,4 +10,3 @@ class Solution:
                 left += 1
             total += left 
         return total
-        
